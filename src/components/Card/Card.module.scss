@@ -19,6 +19,14 @@
   background-color: inherit;
 }
 
+.remove_button {
+  color: $color-dark;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  background-color: inherit;
+}
+
 .active {
   color: $color-success;
 }
